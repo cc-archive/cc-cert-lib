@@ -3,18 +3,18 @@
 The Creative Commons librarian certificate is made up of a six modules broken down into learning units. These modules and learning units have been organized sequentially in a recommended learning path as follows:
 
 
-1. 	[Copyright](../core/copyright/index.md)
-* [Scope of Public Domain](../core/copyright/public-domain.md)
-* [Copyright Basics](../core/copyright/basics.md)
-* [Copyright vs. Other Forms of Intellectual Property](../core/copyright/other-ip.md)
-* [Global Aspects of Copyright](../core/copyright/global.md)
-* [Exceptions and Limitations of Copyright](../core/copyright/exceptions-limitations.md)
+1. 	[Copyright](copyright/index.md)
+* [Scope of Public Domain](copyright/public-domain.md)
+* [Copyright Basics](copyright/basics.md)
+* [Copyright vs. Other Forms of Intellectual Property](copyright/other-ip.md)
+* [Global Aspects of Copyright](copyright/global.md)
+* [Exceptions and Limitations of Copyright](copyright/exceptions-limitations.md)
 
-2. [The Commons](../core/commons/index.md)
-* [Significance of the Commons](../core/commons/significance.md)
-* [Physical vs Digital Commons](../core/commons/physical-digital.md)
-* [The Opportunity of the Commons](../core/commons/opportunity.md)
-* [Creative Commons as an Organization in the Commons](../core/commons/creative-commons.md)
+2. [The Commons](commons/index.md)
+* [Significance of the Commons](commons/significance.md)
+* [Physical vs Digital Commons](commons/physical-digital.md)
+* [The Opportunity of the Commons](commons/opportunity.md)
+* [Creative Commons as an Organization in the Commons](commons/creative-commons.md)
 
 3. Using Creative Commons Licenses
 * How Licenses Work with Copyright
