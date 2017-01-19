@@ -14,6 +14,17 @@ The CC Librarian Certificate aims to ensure all librarians have the 21st century
 
 The Creative Commons Librarian Certificate is for librarians seeking to acquire Creative Commons knowledge and skills in support of increasing capacity and services for library functions associated with Open Access (OA), open data, Open Educational Resources (OER), open science, and the public domain.
 
+## Knowledge and skills
+
+On completion of the certificate librarians will be able to:
+
+* explain the benefits of Creative Commons licenses
+* raise awareness of knowledge sharing and distribution opportunities associated with openness
+* support the curation and creation of open resources
+* provide Creative Commons related training and support services
+* help plan institutional systematic changes towards openness
+
+
 ## Get Certified
 
 Learn more [about the delivery format and process](about.md) or [explore the modules and units](contents.md)
