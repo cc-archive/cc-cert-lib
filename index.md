@@ -27,7 +27,7 @@ On completion of the certificate librarians will be able to:
 
 ## Get Certified
 
-Learn more [about the delivery format and process](about.md) or [explore the modules and units](contents.md)
+Learn more [about the delivery format and process](about/index.md) or [explore the modules and units](contents/index.md)
 
 
 
