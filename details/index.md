@@ -87,4 +87,3 @@ The Markdown content can be migrated to other environments, with a few transform
 Likewise, Creative Commons will be able to  a forkable self contained version as static HTML as well as Gitbooks 
 
 The idea is to give you multiple ways to DIY customize your own version of CC certificates. If in the process of customization you produce new content you think we should add to the master version you can submit edits back to us via the GitHub fork and push process. DIY versions of certificate training can be created and delivered by anyone but participants will not receive formal certificates from Creative Commons.
-

@@ -1,4 +1,4 @@
-# Creative Commons Library Certificate
+# Creative Commons Library Certificate Overview
 
 ![Fruit of the Commons](https://github.com/creativecommons/cc-cert-lib/blob/master/images/fruit-of-the-commons.png)
 
