@@ -4,7 +4,7 @@
 
 *[Library](https://flic.kr/p/rV93Kr) by [Dean Hochman](https://www.flickr.com/photos/deanhochman/) is licensed [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
-## Overview
+## Why Needed?
 Librarians have always been keepers and distributors of knowledge. In the 21st century their role is expanding in new ways. Library collections are increasingly digital. The copyright expertise librarians have is being complemented with open [Creative Commons](http://creativecommons.org) based advances. 
 
 Libraries are adding makerspaces, learning labs, 3D printing, and digital media studios to their traditional collections of books and periodicals. In this new, more digital environment, librarians have a critical role to play enhancing the media literacy of their patrons, from kids to scientists. 
@@ -19,7 +19,7 @@ The CC Librarian Certificate aims to ensure all librarians have the 21st century
 
 The Creative Commons Librarian Certificate is for librarians seeking to acquire Creative Commons knowledge and skills in support of increasing capacity and services for library functions associated with Open Access (OA), open data, Open Educational Resources (OER), open science, and the public domain.
 
-## Knowledge and skills
+## What you skills and knowledge will you gain?
 
 On completion of the certificate librarians will be able to:
 
@@ -30,7 +30,7 @@ On completion of the certificate librarians will be able to:
 * help plan institutional systematic changes towards openness
 
 
-## Get Certified
+## How does it work? What will I learn?
 
 Learn more [about the delivery format and process](../details/index.md) or [explore the modules and units](../contents/index.md)
 
