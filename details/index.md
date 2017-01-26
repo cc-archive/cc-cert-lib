@@ -1,5 +1,9 @@
 # Certification Delivery Format
 
+![Library Learning Centre](https://github.com/creativecommons/cc-cert-lib/blob/master/images/LibraryLearningCentre.jpg)
+
+*[The Library and Learning Center by Zaha Hadid, Vienna University of Economics and Business, Austria](https://flic.kr/p/pL1EUy) by [O Paulson](https://www.flickr.com/photos/opalsson/) is licensed [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+
 Delivery of formal certificate training is done by Creative Commons and its authorized partners. Authorized partners include institutions and organizations who have gone through a “train-the-trainer” process with Creative Commons. 
 
 Creative Commons uses a “flipped classroom” approach for formal delivery of the CC Librarian Certificate. The flipped classroom is a pedagogical model in which the typical lecture and homework elements of a course are reversed. 
