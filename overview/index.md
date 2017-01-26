@@ -1,6 +1,6 @@
 # Creative Commons Library Certificate Overview
 
-![Library](https://github.com/creativecommons/cc-cert-lib/blob/master/images/library.jpg)
+![Library](https://github.com/creativecommons/cc-cert-lib/blob/master/images/Library.jpg)
 
 *[Library](https://flic.kr/p/rV93Kr) by [Dean Hochman](https://www.flickr.com/photos/deanhochman/) is licensed [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
