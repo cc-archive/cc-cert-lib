@@ -51,7 +51,7 @@ Note: Fee payment is necessary for cost recovery reasons. We acknowledge some pa
 
 ## Other forms of participation and delivery options
 
-![Read On](https://github.com/creativecommons/cc-cert-lib/blob/master/images/LibraryReadOn.jpg)
+![Read On](https://github.com/creativecommons/cc-cert-lib/blob/master/images/ReadOn.jpg)
 
 *[Read On!](https://flic.kr/p/8CBVH2) by [Enokson](https://www.flickr.com/photos/vblibrary/) is licensed [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
