@@ -2,8 +2,7 @@
 
 ![Information](https://github.com/creativecommons/cc-cert-lib/blob/master/images/Information.jpg)
 
-*[The Library and Learning Center by Zaha Hadid, Vienna University of Economics and Business, Austria](https://flic.kr/p/pL1EUy) by [O Paulson](https://www.flickr.com/photos/opalsson/) is licensed [CC BY](https://creativecommons.org/licenses/by/2.0/)*
-
+*[Stadtbibliothek Gelsenkirchen](https://flic.kr/p/NhGAKn) by [Fachstelle für Öffentliche Bibliotheken NRW](https://www.flickr.com/photos/fst_oeb_nrw/) is licensed [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
 The Creative Commons librarian certificate is made up of a six modules broken down into learning units. These modules and learning units have been organized sequentially in a recommended learning path as follows:
 
