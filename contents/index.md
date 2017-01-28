@@ -1,8 +1,8 @@
 # CC Library Certification Contents
 
-![Information](https://github.com/creativecommons/cc-cert-lib/blob/master/images/Information.jpg)
+![Information](https://github.com/creativecommons/cc-cert-lib/blob/master/images/bookdash.jpg)
 
-*[Stadtbibliothek Gelsenkirchen](https://flic.kr/p/NhGAKn) by [Fachstelle für Öffentliche Bibliotheken NRW](https://www.flickr.com/photos/fst_oeb_nrw/) is licensed [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+*[Graca's Dream](http://bookdash.github.io/bookdash-books/gracas-dream/en/) by Melissa Fagan, Karlien de Villiers, Marike le Roux is licensed [CC BY](https://creativecommons.org/licenses/by/4.0/)*
 
 The Creative Commons librarian certificate is made up of a six modules broken down into learning units. These modules and learning units have been organized sequentially in a recommended learning path as follows:
 
