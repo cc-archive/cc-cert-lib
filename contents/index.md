@@ -1,6 +1,6 @@
 # CC Library Certification Contents
 
-![Information](https://github.com/creativecommons/cc-cert-lib/blob/master/images/bookdash.jpg)
+![Graca's Dream](https://github.com/creativecommons/cc-cert-lib/blob/master/images/bookdash.jpg)
 
 *[Graca's Dream](http://bookdash.github.io/bookdash-books/gracas-dream/en/) by Melissa Fagan, Karlien de Villiers, Marike le Roux is licensed [CC BY](https://creativecommons.org/licenses/by/4.0/)*
 
