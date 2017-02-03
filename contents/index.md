@@ -28,24 +28,23 @@ The Creative Commons librarian certificate is made up of a six modules broken do
   * Remixing Differently Licensed Works
   * Legal Precedence of Creative Commons licenses
 
-4. Sociocultural 
-  * How / If Open is Better
-  * Shift to Openness
-  * Promoting Openness
-  * Community Development for Openness
-
-5. Specialized Librarian Modules
-  * What does open mean for libraries
-  * Open Access
-  * Gold Access vs Green Access
-  * Tech Transfer & Author rights
-  * Advocacy/Repository/OA policy & funding agencies
-  * University OA Policy – Setting up and supporting
-
+4. [Sociocultural](sociocultural/index.md)
+   * [How the Open Model is Better](sociocultural/open-better.md)
+   * Shift to Openness
+   * Promoting Openness
+   * Community Development for Openness
+   
+5. Specialized Librarian Units
+   * What does open mean for libraries 
+   * Open Access 
+   * Gold Access vs Green Access 
+   * Tech Transfer & Author rights
+   * Advocacy/Repository/OA policy & funding agencies 
+   * University OA Policy
 6. Electives
-  * Text & Data mining what does it mean for authors & the library
   * OER / Open Textbooks / Open Courses / MOOCs
-  * 3D Printing issues and challenges with IP
-  * Copyright & CC for Audio & Visual
+  * Text & Data Mining
+  * 3D Printing and IP
+  * Audio & Visual Issues
   * Open Data
   * Open Science
