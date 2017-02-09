@@ -1,4 +1,4 @@
-# Creative Library Certification
+# Creative Commons Library Certification
 
 *CC-CERT-LIB v0.2 Jan 27 2017*
 
@@ -20,8 +20,8 @@ Learn more about the Creative Commons Certification project at http://certificat
 
 
 * [CORE](https://github.com/creativecommons/cc-cert-map/)
-* Government
-* Education
+* [Government](https://github.com/creativecommons/cc-cert-gov/)
+* [Education](https://github.com/creativecommons/cc-cert-edu/)
 
 
 
