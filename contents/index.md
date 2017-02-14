@@ -20,20 +20,19 @@ The Creative Commons librarian certificate is made up of a six modules broken do
   * [The Opportunity of the Commons](commons/opportunity.md)
   * [Creative Commons as an Organization in the Commons](commons/creative-commons.md)
 
-3. Using Creative Commons Licenses
-  * How Licenses Work with Copyright
-  * Overview of the Licenses
-  * Examples of Licenses in Action
-  * Differences of CC0 and Public Domain Mark
-  * Remixing Differently Licensed Works
-  * Legal Precedence of Creative Commons licenses
-
+3. [Creative Commons Licenses](licenses/index.md)
+   * How Licenses Work with Copyright
+   * Overview of the Licenses
+   * Examples of Licenses in Action
+   * [Remixing Differently Licensed Works](licenses/remixed.md)
+   * Legal Precedence of Creative Commons Licenses
+   
 4. [Sociocultural](sociocultural/index.md)
    * [How the Open Model is Better](sociocultural/open-better.md)
    * Shift to Openness
    * Promoting Openness
    * Community Development for Openness
-   
+      
 5. Specialized Librarian Units
    * What does open mean for libraries 
    * Open Access 
