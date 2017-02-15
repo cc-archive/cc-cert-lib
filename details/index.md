@@ -1,4 +1,4 @@
-# Creative Commons Librarian Certificate Delivery Format
+# Librarian Certificate Delivery Format
 
 ![Library Learning Centre](https://github.com/creativecommons/cc-cert-lib/blob/master/images/LibraryLearningCentre.jpg)
 
