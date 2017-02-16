@@ -1,4 +1,4 @@
-# CC Library Certification Contents
+# CC Librarian Certificate Contents
 
 ![Graca's Dream](https://github.com/creativecommons/cc-cert-lib/blob/master/images/bookdash.jpg)
 
