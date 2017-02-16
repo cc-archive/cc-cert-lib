@@ -1,4 +1,4 @@
-# Creative Commons Library Certificate Overview
+# Creative Commons Librarian Certificate Overview
 
 ![Library](https://github.com/creativecommons/cc-cert-lib/blob/master/images/Library.jpg)
 
