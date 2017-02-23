@@ -41,12 +41,14 @@ The Creative Commons librarian certificate is made up of a six modules broken do
    * Advocacy/Repository/OA policy & funding agencies 
    * University OA Policy
 6. Electives
-  * OER / Open Textbooks / Open Courses / MOOCs
-  * Text & Data Mining
-  * 3D Printing and IP
-  * Audio & Visual Issues
-  * Open Data
-  * Open Science
+   * OER / Open Textbooks / Open Courses / MOOCs
+   * Text & Data Mining
+   * 3D Printing and IP
+   * Audio & Visual Issues
+   * Open Data
+   * Open Science
+  
+  
 ----
 
 ![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-lib/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
