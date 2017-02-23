@@ -32,15 +32,22 @@ The Creative Commons librarian certificate is made up of a six modules broken do
    * Shift to Openness
    * Promoting Openness
    * Community Development for Openness
+   
+5. [Using Creative Commons](using/index.md)
+   * Choosing a License
+   * Finding CC Licensed Content
+   * Legal vs Technical Openness
+   * Giving Attribution
+
       
-5. Specialized Librarian Units
+6. Specialized Librarian Units
    * What does open mean for libraries 
    * Open Access 
    * Gold Access vs Green Access 
    * Tech Transfer & Author rights
    * Advocacy/Repository/OA policy & funding agencies 
    * University OA Policy
-6. Electives
+7. Electives
    * OER / Open Textbooks / Open Courses / MOOCs
    * Text & Data Mining
    * 3D Printing and IP
