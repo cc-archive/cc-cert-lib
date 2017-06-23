@@ -39,6 +39,10 @@ Except where otherwise noted, this content is published under a [CC BY license](
 
 Recommended attribution: 
 
+> "Creative Commons Core Certificate" by Creative Commons is licensed under CC BY 4.0. Available at    
+> https://github.com/creativecommons/cc-cert-lib/blob/master/README.md
+
+
 *Creative Commons Certificates have been created as a project of [Creative Commons](http://creativecommons.org/) with the kind support of the [Institute of Museum and Library Services](https://www.imls.gov/) and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 
 These certificates are part of the commons; if you find broken links or any other errors  [you can help by reporting them as an issue](https://github.com/creativecommons/cc-cert-lib/issues).
