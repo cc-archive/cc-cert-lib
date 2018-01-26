@@ -6,7 +6,7 @@ Copyright protection is not forever, at some point the protection expires and wo
 
 Works in the public domain are collective cultural inheritance. Before the complexities of copyright law, Intellectual Property and Patents works were largely public. It wasn’t until mid-18th century that the term “public domain” came into use. 
 
-Today, when a creative work’s copyright protection ends, the work enters the public domain, free for all to use, without permission, indefinitely.  Works in the public domain are not protected by intellectual property law including copyright, trademark or patent. The public owns this work, the work cannot be owned by an individual.  Length of copyright terms vary from country to country.  The US is life plus 70 years, Canada is 50 years following a creator’s death, length of copyright terms by country can be found here. 
+Today, when a creative work’s copyright protection ends, the work enters the public domain, free for all to use, without permission, indefinitely.  Works in the public domain are not protected by intellectual property law including copyright, trademark or patent. The public owns this work, the work cannot be owned by an individual.  Length of copyright terms vary from country to country.  The US is life plus 70 years, Canada is 50 years following a creator’s death, length of copyright terms by [country can be found here](https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths). 
 
 ![Melies color Voyage dans la lune](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/voyage-dans-la-lune.jpg "Melies color Voyage dans la lune")
 
@@ -33,7 +33,7 @@ Works in the public domain have resulted in many interesting and creative works.
 
 *[Dissension](http://gifitup2015.tumblr.com/post/131439542373/gif-it-up-2015-entry-dissension-from-tobias) by Tobias Rothe is licensed [CC BY](https://creativecommons.org/licenses/by/3.0/)*
 
-Following step costs and complex systems clearing music rights, comedian James Corden host of the Late Late Show began a segment where his famous guests perform songs in the public domain.  Here is actor Jamie Foxx American actor, singer, songwriter, and comedian performing **Twinkle Twinkle Little Star**.
+Following steep costs and complex systems clearing music rights, comedian James Corden host of the Late Late Show began a segment where his famous guests perform songs in the public domain.  Here is actor Jamie Foxx American actor, singer, songwriter, and comedian performing **Twinkle Twinkle Little Star**.
 
 *[Public Domain Songs w/ Jamie Foxx](https://www.youtube.com/watch?v=bW0E_sncNic8) by [The Late Late Show with James Corden](https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg)*
 
